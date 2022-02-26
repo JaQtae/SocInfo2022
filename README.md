@@ -2,7 +2,7 @@
 # Group members
 - Jakob Sebastian Engel Ketmig, s194244
 - Alexander Valentini, s194252
-- Lasse Sofus Møller, sXXXXXX
+- Lasse Sofus Møller, s185927
 
 Danish Technical University (DTU)
 Artificial Intelligence and Data science
