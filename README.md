@@ -1,4 +1,5 @@
 # 02467 Computation Social Science 2022
+https://github.com/JaQtae/SocInfo2022
 # Group members
 - Jakob Sebastian Engel Ketmig, s194244
 - Alexander Valentini, s194252
